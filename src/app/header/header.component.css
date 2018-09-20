@@ -1,0 +1,15 @@
+#ro-header {
+  background-color: #de6600;
+}
+
+#ro-header .banner {
+  height: 9rem;
+}
+
+#ro-header .banner .logo-left {
+  float: left;
+}
+
+#ro-header .banner .logo-right {
+  float: right;
+}
